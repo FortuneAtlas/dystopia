@@ -1,0 +1,17 @@
+body {
+  padding: 2px 14px 0 14px;
+}
+
+.pic {
+  display: block;
+  max-width: 70%;
+  height: auto;
+}
+
+.firsttext {
+  padding: 0 8% 0 8%;
+}
+
+.theh {
+  font-size: 22px;
+}
